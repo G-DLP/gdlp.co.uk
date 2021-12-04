@@ -12,7 +12,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "1/2 of [The White Pube](https://thewhitepube.com)"
+	subtitle = "gabrielle de la puente / my little blog hello"
 
 # Social Tags
 
@@ -30,9 +30,14 @@ url = "/info"
 weight = 1
 
 [[menu.main]]
-name = "Blog"
-url = "/blog"
+name = "All posts"
+url = "/posts"
 weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
 
 
 
