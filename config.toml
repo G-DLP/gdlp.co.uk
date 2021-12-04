@@ -17,19 +17,10 @@ paginate=3 # articles per page
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
-
-[[params.social]]
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/come_home_dad"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 # Main menu Items
 
@@ -43,8 +34,5 @@ name = "Blog"
 url = "/blog"
 weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+
 
