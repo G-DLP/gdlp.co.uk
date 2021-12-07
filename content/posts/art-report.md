@@ -1,5 +1,5 @@
 ---
-title: The Impact of Using Social Media as an Artist
+title: The Impact of Using Social Media as an Artist 👩🏻‍💻
 description: the biggest thing I've ever written
 date: 2021-12-07
 tldr: might as well know how to use it, even if it's evil

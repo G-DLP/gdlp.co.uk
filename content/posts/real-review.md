@@ -1,7 +1,7 @@
 ---
-title: Real Review
+title: Real Review 📚
 description: I reviewed long covid lol
-date: 2021-12-07
+date: 2021-12-04
 tldr: the text itself isnt here, you gotta buy it soz
 draft: 
 tags: long covid
