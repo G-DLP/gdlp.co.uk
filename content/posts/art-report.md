@@ -4,7 +4,7 @@ description: the biggest thing I've ever written
 date: 2021-12-07
 tldr: might as well know how to use it, even if it's evil
 draft: 
-tags: art, social media
+tags: art
 ---
 
 Today, I am publishing the biggest thing I’ve ever written.
