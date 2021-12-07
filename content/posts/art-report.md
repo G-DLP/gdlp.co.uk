@@ -21,4 +21,4 @@ Text here: https://weareunlimited.org.uk/the-white-pube-investigates-the-impact-
 
 (And, er, if it’s not, please email me and I’ll send you the document)
 
-{{< figure src="https://ibb.co/gMZz4S6" title="the impact of using social media as an artist" >}}
+{{< figure src="https://i.ibb.co/MDkMBc9/Cover-w-Computer-and-Text-Green-on-Pink.jpg" title="the impact of using social media as an artist" >}}
