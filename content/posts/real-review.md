@@ -11,4 +11,4 @@ I was invited to write about Long Covid for the Spring 2021 edition of Real Revi
 
 https://real-review.org/product/real-review-11/
 
-{{< figure src="https://ibb.co/KDpVpY5" title="real review" >}}
+{{< figure src="https://i.ibb.co/8bLPLJm/IMG-6220.jpg" title="real review" >}}
