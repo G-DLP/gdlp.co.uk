@@ -9,7 +9,7 @@ tags: art
 
 Today, I am publishing the biggest thing I’ve ever written.
 
-Download the PDF <a href="https://www.pdfhost.net/index.php?Action=DownloadFile&id=f42077e081d44f8b7a5bdbdc4d5fb4c4">here</a>!
+Download the PDF here: https://www.pdfhost.net/index.php?Action=DownloadFile&id=f42077e081d44f8b7a5bdbdc4d5fb4c4
 
 It is a document called ‘The Impact of Using Social Media as an Artist.’ Part report, it outlines how social media has become an important tool for work, networking and creativity. Part guide, it explains the differences between social media platforms, alongside tips, examples, and advice on safety and mental wellbeing online. Part conversation, it interviews different artists on their approach to social media (including Monique Jackson, v buckenham, the Kirkwood Brothers, Vince Laws, David Tovey and Babeworld). And part assessment, it looks at a recent commission that was shared on Instagram and Twitter to examine how arts organisations can best present artwork in online spaces.
 
@@ -19,8 +19,6 @@ It’s one big PDF for now but over the coming weeks/months, I’ll be pulling o
 
 Finally, this document was published on the International Day of People With Disabilities. I hope what I’ve written can help platform disabled artists, or help them better platform themselves. Writing the report with this important end date in mind helped me think through my own experience of disability and I am very glad to have had the opportunity to do this. 
 
-Text here: https://weareunlimited.org.uk/the-white-pube-investigates-the-impact-of-using-social-media/
-
-(And, er, if it’s not, please email me and I’ll send you the document)
+Text on Unlimited's site here: https://weareunlimited.org.uk/the-white-pube-investigates-the-impact-of-using-social-media/
 
 {{< figure src="https://i.ibb.co/MDkMBc9/Cover-w-Computer-and-Text-Green-on-Pink.jpg" title="the impact of using social media as an artist" >}}

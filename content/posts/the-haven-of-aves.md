@@ -9,7 +9,7 @@ tags: games
 
 Earlier this year, David Blandy invited me to write a supplement for his TTRPG series Lost Eons. This is the result:
 
-<a href="https://davidblandy.itch.io/lost-eons-haven-of-aves"> > Find The Haven of Aves here! < </a> 
+Find The Haven of Aves here: https://davidblandy.itch.io/lost-eons-haven-of-aves
 
 <i>'A setting for LOST EONS based in a future Liverpool, an avian world of haves and have-nots. Featuring Art by Harriet Burns and a short story by Gabrielle de la Puente, enter a future world of water, misery and defiance. 
 
