@@ -9,6 +9,8 @@ tags: art
 
 Today, I am publishing the biggest thing I’ve ever written.
 
+Download the PDF <a href="https://www.pdfhost.net/index.php?Action=DownloadFile&id=f42077e081d44f8b7a5bdbdc4d5fb4c4">here</a>!
+
 It is a document called ‘The Impact of Using Social Media as an Artist.’ Part report, it outlines how social media has become an important tool for work, networking and creativity. Part guide, it explains the differences between social media platforms, alongside tips, examples, and advice on safety and mental wellbeing online. Part conversation, it interviews different artists on their approach to social media (including Monique Jackson, v buckenham, the Kirkwood Brothers, Vince Laws, David Tovey and Babeworld). And part assessment, it looks at a recent commission that was shared on Instagram and Twitter to examine how arts organisations can best present artwork in online spaces.
 
 I’ve written this hoping it can help both sides of the table — so that artists know how they can use social media to their advantage, and for organisations to know how to better support the artists they work with. I’ve also written this because it was a commission, lol. The text was commissioned by Unlimited, who ‘run an arts commissioning programme that enables new work by disabled artists to reach UK and international audiences.’

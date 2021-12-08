@@ -1,6 +1,6 @@
 ---
 title: my favourite texts of 2021 ⭐️
-description: be me lol
+description: by me lol
 date: 2021-12-06
 tldr: i feel like somebody else wrote these lmao
 draft: 
