@@ -3,7 +3,7 @@ title: INFO
 description: gdlp details
 date: 2021-12-04
 draft: 
-tags: info
+tags: 
 ---
 
 My name is Gabrielle de la Puente (b.94, Liverpool 📍)
@@ -16,7 +16,7 @@ I co-run The White Pube with Zarina Muhammad. On TWP, I publish criticism on vid
 
 You can support The White Pube on Patreon here:
 
-> https://www.patreon.com/thewhitepube < that's our wage lol
+> https://www.patreon.com/thewhitepube < if you want to support TWP
 
 I am starting to write fiction but don't tell anybody.
 
