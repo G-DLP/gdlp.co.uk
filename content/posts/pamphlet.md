@@ -1,5 +1,5 @@
 ---
-title: ideas for a new art world
+title: ideas for a new art world 🌏
 description: first print publication available now!
 date: 2021-12-10
 tldr: you can pick it up for 7.99 from rough trade books
@@ -16,4 +16,6 @@ You can purchase the pamphlet here: https://www.roughtrade.com/gb/the-white-pube
 If you pick up a copy, thank you very much!!! 
 
 ✌.ʕʘ‿ʘʔ.✌
+
+{{< figure src="https://images.roughtrade.com/product/images/files/000/222/541/hero/TWP.jpg" title="ideas for a new art world" >}}
 
