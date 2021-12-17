@@ -15,9 +15,6 @@ the mix itself: https://soundcloud.com/communityradiotbilisi/a-beautiful-stairca
 
 I put together a list of sounds and music from games that I've really enjoyed, and Ben put everything together for me! It's all on the second half of this, but i'd recommend listening to the full thing for a lovely hour :)
 
-<a href="https://soundcloud.com/communityradiotbilisi/a-beautiful-staircase-in-an-abandoned-building-feat-gabrielle-de-la-puente" title="A Beautiful Staircase in an Abandoned Building feat. Gabrielle De La Puente" target="_blank" style="color: #cccccc; text-decoration: none;">A Beautiful Staircase in an Abandoned Building feat. Gabrielle De La Puente</a></div>
+Thanks Ben for the invitation > https://soundcloud.com/communityradiotbilisi
 
-Thanks Ben for the invitation >
-You can find the rest of the episodes of A Beautiful Staircase here: https://soundcloud.com/communityradiotbilisi
-
-
+{{< figure src="https://i.ibb.co/6PRKVCJ/FDIRCWl-WQAMIp-PP.jpg" title="community radio" >}}
