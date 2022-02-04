@@ -46,7 +46,7 @@ Mid December: Calls with the Breathing Programme begin. 2 so far. Now, consider 
 
 Also mid December: The Breathing Programme tell me they can't start graded exercise - not that I've agreed to do it lol - until I get a POTS diagnosis. They say they have already contacted my doctor to request this. I speak to my doctor on the phone the next day and she says she can see no contact from them. I say, well, can you arrange a POTS diagnositic text anyway? No, she needs to see it has come from them and not me. Hated that. She says she will get in touch with them but I'm already thinking about how all I do is go back and forth between different doctors. I'm wondering where these missing letters and emails disappear to, like socks in the washing machine, except it's lots of little pieces of my sanity going bye bye.  
 
-Late December: I see a letter at the door and it's from PIP - my application is unsuccessful. I will read it properly in the new year but I cannot emotionally deal with it at the moment loool. I only scanned it but the bit I saw was essentially saying I was too articulate on the phone and that I also write articles online... I mean, does anyone know how you are supposed to articulate the state you are in without articulating the state you are in? Psychic powers? A documentary? I don't know what I am supposed to do. It's a joke. Nice way to end the year.
+Late December: I see a letter at the door and it's from PIP - my application is unsuccessful. I will read it properly in the new year but I cannot emotionally deal with it at the moment loool. I only scanned it but the bit I saw was essentially saying I was too articulate on the phone and that I also write articles online... I mean, does anyone know how you are supposed to articulate the state you are in without articulating the state you are in? Psychic powers? A documentary? I don't know what I am supposed to do. It's a joke. Nice way to end the year. My mistake in this whole process might be having hope for treatment when treatment for post viral conditions throughout history has been… non existent. Suspicious. Bad. Should I even be annoyed about any of this when there is no cure in the first place? What am I expecting? And in fact, am I doing myself more harm just by doing part-time NHS administration. So much time and energy. So much sadness, too. 
 
 2022
 
@@ -56,9 +56,4 @@ Late January: When I was speaking to the Long Covid Clinic last year, they were 
 
 February: I only started taking the beta-blockers yesterday so this update is about to end but the first day brought on the worst headache I think I’ve ever had… but it also did slow my heart. I wasn’t feeling the mad pounding in my chest I’ve been so used to for the past year. I walked to the off at the end of my road and back because I wanted to see how it would feel and I said to Michael that it was like my heart wasn’t in my chest anymore, like I felt dead. Dead because of how loud it has been for a year. I didn’t get out of breath walking because my heart rate wasn’t going mental to make me breathe harder… this is … idk, it just feels so normal. I feel normal. Maybe this is really going to work. 
 
-— — — To be continued — — —  
-
-My mistake in this whole process might be having hope for treatment when treatment for post viral conditions throughout history has been… non existent. Suspicious. Bad.
-
-Should I even be annoyed about any of this when there is no cure in the first place? What am I expecting? And in fact, am I doing myself more harm just by doing part-time NHS administration. So much time and energy. So much sadness, too. 
- 
+— — — To be continued — — — 
