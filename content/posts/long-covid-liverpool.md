@@ -1,5 +1,5 @@
 ---
-title: long covid treatment in Liverpool 💀
+title: long covid treatment in Liverpool [UPDATED] 💀
 description: or lack thereof. a year of referral nightmares. 
 date: 2021-12-17
 tldr: the timeline of my interactions with the NHS throughout my first year of long covid
