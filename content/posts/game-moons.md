@@ -13,4 +13,7 @@ https://twitter.com/game_moons
 
 :) if you have pictures of the moon in a game please send them my way i need help
 
-{{< figure src="https://images.nintendolife.com/news/2017/12/guide_super_mario_odyssey_moon_kingdom_power_moon_locations_and_walkthrough/attachment/0/large.jpg" title="mario odyssey moon promo picture" >}}
+{{< tweet 1489750794522005510 >}}
+
+If you find any game moons, please send them my way!!!! happy moon hunting gang
+🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙🌙 
