@@ -16,7 +16,7 @@ I co-run The White Pube with Zarina Muhammad. On TWP, I publish criticism on vid
 
 You can support The White Pube on Patreon here:
 
-> https://www.patreon.com/thewhitepube < if you want to support TWP
+> https://www.patreon.com/thewhitepube < 
 
 I am starting to write fiction but don't tell anybody.
 

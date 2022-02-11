@@ -10,6 +10,8 @@ tags: long covid
 
 I thought it would be good to keep track of how I have (and haven’t) received support for Long Covid in Liverpool. By good I mean useful for other people in the same position. By good I also maybe mean an interesting document for people with other post viral illnesses who are looking at the reaction to Long Covid and feeling some type of way. So, this is my shitty timeline. And this is why I have lost faith in health professionals, or rather, the terribly organised structure that these health professionals work inside the NHS.
 
+{{< instagram CUhRBgDAIpq >}}
+
 ## 2021
 
 January: Got sick with COVID. 111 hooked me up with an inhaler. Thanks 111.
