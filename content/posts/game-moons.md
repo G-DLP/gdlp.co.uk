@@ -14,3 +14,7 @@ https://twitter.com/game_moons
 :) if you have pictures of the moon in a game please send them my way i need help
 
 {{< tweet 1489750794522005510 >}}
+
+if you have any moons, please send them my way and i can add em to the queue
+
+happy moon hunting x
