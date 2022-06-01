@@ -3,7 +3,7 @@ title: Started a twitch channel
 description: wish me luck bbz
 date: 2022-02-11
 tldr: i dont know if streaming is for me yet but i'm gonna try it out!
-draft: 
+draft: true
 tags: games
 ---
 

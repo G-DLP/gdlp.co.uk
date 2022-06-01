@@ -3,7 +3,7 @@ title: i listened to 50 albums
 description: i wanted to find new things to like - and it worked!
 date: 2022-02-22
 tldr: a lot of them were bad though
-draft: 
+draft: true
 tags: music
 ---
 
