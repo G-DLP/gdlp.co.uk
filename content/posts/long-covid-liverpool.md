@@ -56,6 +56,16 @@ Late January: When I was speaking to the Long Covid Clinic last year, they were 
 
 February: I only started taking the beta-blockers yesterday so this update is about to end but the first day brought on the worst headache I think I’ve ever had… but it also did slow my heart. I wasn’t feeling the mad pounding in my chest I’ve been so used to for the past year. I walked to the offy at the end of my road and back because I wanted to see how it would feel and I said to Michael that it was like my heart wasn’t in my chest anymore, like I felt dead. Dead because of how loud it has been for a year. I didn’t get out of breath walking because my heart rate wasn’t going mental to make me breathe harder… this is … idk, it just feels so normal. I feel normal. Maybe this is really going to work.
 
+March-May: I did The Breathing Programme's rehabilitation programme. I was really cautious about it because of fears of post exertional malaise, but I felt like I was able to find a happy balance in terms of activity and rest. I built up some strength. I would not have been able to get anything out of this if I hadn't started on beta blockers. I ended up buying some hand weights when the programme came to an end because I was feeling really enthused by it all. I had missed activity so much. 
+
+June-July: I wanted to carry on with the bits and pieces of strengthening exercises I'd learnt from The Breathing Programme but the heat was kicking in and my ability to do things absolutely folded; the single biggest aggravator if POTS symptoms is heat. I was still on the beta blockers but it couldn't top the weather and the consecutive heatwaves.
+
+August: The Long Covid clinic had been checking in with me regularly. I told them in August that I'd been having a side effect whereby my fingers and the tip of my nose were ice cold. They took me of bisopropol (2.5mg btw) and suggested ivabradine. Throughout August I took ivabradine instead. Unfortunately, I had worse side effects on that, including flashing lights in my vision and numbness in different parts of my body. On a phone call with the Long Covid Clinic, I also asked for a referral to psychology to look into brain fog problems and ways to mediate that. 
+
+September: I've gone back on bisopropol because cold fingers are better than flashing lights. I also release [this podcast episode](https://thewhitepube.co.uk/podcasts/my-diagnosis-has-changed/) discussing POTS. 
+
+
+
 — — — To be continued — — —
 
 

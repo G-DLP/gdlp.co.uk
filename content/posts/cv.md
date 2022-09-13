@@ -9,8 +9,7 @@ tags: life
 
 Gabrielle de la Puente, Liverpool 
 
-
-Writing, curating, consulting, teaching, and giving my opinion on all the culture that gets on my nerves (for better or worse)
+Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on all the culture that gets on my nerves (for better or worse)
 
 ✏️ Signed with Jo Unwin Agency
 
@@ -19,7 +18,7 @@ Writing, curating, consulting, teaching, and giving my opinion on all the cultur
 ## [The White Pube](http://thewhitepube.com "The White Pube") est.2015
 - weekly reviews, essays & podcasts on [art](https://thewhitepube.com/art), [games](https://thewhitepube.com/games) and [other culture](https://thewhitepube.com/misc)
 - [Successful Funding Application Library](https://thewhitepube.com/fundinglibrary)
-- [Working Class Writers Grant](https://thewhitepube.com/writersgrants)
+- Selecting on the monthly [Working Class Creatives Grant](https://thewhitepube.com/grants)
 - ['Ideas For A New Art World'](https://roughtradebooks.com/collections/editions/products/ideas-for-a-new-art-world-the-white-pube "Buy it Here") published with Rough Trade Books
 - [Critics Club](https://threeriversbexley.org/projects/critics-club) school for criticism with Three Rivers, Bexley
 - [Advice Column for Elephant](https://elephant.art/author/the-white-pube/) (ongoing)
