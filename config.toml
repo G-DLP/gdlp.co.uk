@@ -12,7 +12,7 @@ paginate=4 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "gabrielle de la puente * this is my little blog hello * contact details on the Info page >"
+	subtitle = "gabrielle de la puente * writer * liverpool * an online CV of sorts * contact details on the Info page >"
 
 # Social Tags
 

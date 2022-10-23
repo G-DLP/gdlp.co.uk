@@ -20,8 +20,10 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 - [Successful Funding Application Library](https://thewhitepube.com/fundinglibrary)
 - Selecting on the monthly [Working Class Creatives Grant](https://thewhitepube.com/grants)
 - ['Ideas For A New Art World'](https://roughtradebooks.com/collections/editions/products/ideas-for-a-new-art-world-the-white-pube "Buy it Here") published with Rough Trade Books
+- [Instagram](https://www.instagram.com/thewhitepube/), [Twitter](https://twitter.com/TheWhitePube), [recently resurrected Youtube Channel](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
+- Podcast on [Apple](https://podcasts.apple.com/gb/podcast/the-white-pube/id1534961421), [Spotify](https://open.spotify.com/show/65q0BVy1k8p3R5G0WKYnV5) + wherever you get your podcasts
 - [Critics Club](https://threeriversbexley.org/projects/critics-club) school for criticism with Three Rivers, Bexley
-- [Advice Column for Elephant](https://elephant.art/author/the-white-pube/) (ongoing)
+- [Advice Column for Elephant](https://elephant.art/author/the-white-pube/) (ended '22)
 - [Advice Column for Dazed](https://www.dazeddigital.com/the-white-pube) (ended)
 - 2018 Global Initiative Speakers at Rhode Island School of Design
 
@@ -39,8 +41,9 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 - Founder and co-curator of Little Man Gallery 2015-2017
 
 ## Other work
-- University tutorials and lectures in art schools across the UK + internationally
-- Mentoring artists behind the scenes
+- Mentoring artists (many on DYCP)
+- University tutorials & lectures in art schools (international)
 
-I will add more stuff here when I remember what I've done or what else I wanna include 
+
+There are a few announcements on the horizon so I will come back and add them here when they're out!
 
