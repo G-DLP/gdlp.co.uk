@@ -3,7 +3,7 @@ title: looking for a 1 day a week-ish job 🎯
 description: back open for business baby
 date: 2022-05-31
 tldr: get in touch if something comes to mind
-draft: 
+draft: true
 tags: life
 ---
 
