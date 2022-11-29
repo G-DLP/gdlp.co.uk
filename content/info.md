@@ -18,6 +18,10 @@ Alongside The White Pube, I teach, edit, mentor, chair talks, consult for arts o
 
 In a not too distant past life, I also used to be a curator. I launched [OUTPUT gallery]( http://outputgallery.com) in 2018, a space in Liverpool City Centre that works exclusively with creatives from or based in Merseyside. I had to leave this job in 2021 when I got Long Covid but it's still in action, thank god. 
 
+## RSS >
+
+❇️ copy and paste this: https://gdlp.co.uk/index.xml
+
 ## Get in touch >
 
 📧 gabrielle@gdlp.co.uk
