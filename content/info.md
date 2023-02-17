@@ -22,8 +22,6 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 
 ❇️ copy and paste my RSS here: https://gdlp.co.uk/index.xml
 
-❇️ [instagram](https://www.instagram.com/gdlp/)
-
 ❇️ [twitter](https://twitter.com/gdlp__)
 
 ## CONTACT >
@@ -37,5 +35,5 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 
-{{< figure src="https://pbs.twimg.com/media/FTM5UoRXEAQNGUC?format=jpg&name=medium" title="jsyk" >}}
+{{< figure src="https://i.imgur.com/0XhIVGj.jpeg" title="me in feb '23, photo by maria gorodeckaya" >}}
 

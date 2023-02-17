@@ -1,5 +1,5 @@
 ---
-title: made aNOTHER fun video 📸
+title: liverpool day out 📸
 description: youtube thing in fullER motion
 date: 2023-01-26
 tldr: come round exhibitions with me

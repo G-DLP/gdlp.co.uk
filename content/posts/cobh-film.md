@@ -1,5 +1,5 @@
 ---
-title: made a fun video ✈️
+title: come to ireland with me ✈️
 description: youtube thing in full motion
 date: 2023-01-09
 tldr: come on a residency with me
