@@ -3,7 +3,7 @@ title: long covid and going nocturnal 🌙
 description: what if I just stayed awake forever?
 date: 2021-12-06
 tldr: long covid can trigger a delayed sleep phase disorder - so fuck long covid tbh
-draft: 
+draft: true
 tags: long covid
 ---
 

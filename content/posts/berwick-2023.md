@@ -4,7 +4,7 @@ description: to berwick we go
 date: 2023-03-19
 tldr: love for soda jerk, holly márie parnell + fox maxy
 draft: 
-tags: films, art
+tags: films
 ---
 
 it's the latest episode of gabTV
