@@ -11,7 +11,7 @@ Gabrielle de la Puente, Liverpool
 
 Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff
 
-✏️ Signed with Jo Unwin Agency
+✏️ Signed with Jo Unwin Literary Agency
 
 🎓 Studied BA Fine Art at Central Saint Martins
 

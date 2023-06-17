@@ -1,18 +1,18 @@
 ---
 title: INFO
-description: gdlp details
-date: 2022-06-01
+description: who what where why when
+date: 2023-06-17
 draft: 
 tags: 
 ---
 
-My name is Gabrielle de la Puente (b.94, Liverpool 📍)
+My name is Gabrielle de la Puente b.94, Liverpool 📍 (puente pronounced pwen-tay. she/her)
 
-I am a writer.
+I am a writer. 
 
-I co-run [The White Pube](https://thewhitepube.com) with Zarina Muhammad where we publish criticism on art, video games, films, books, theatre and all the culture that gets on our nerves (for better or worse). We publish reviews in [text](https://thewhitepube.com), [audio](https://thewhitepube.co.uk/podcasts/) and [video](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ/featured).
+I co-run [The White Pube](https://thewhitepube.com) with [Zarina Muhammad](http://zarinamuhammad.co.uk/) where we publish criticism on art, video games, films, books, theatre and all the culture that gets on our nerves (for better or worse). We share reviews in [text](https://thewhitepube.com), [audio](https://thewhitepube.co.uk/podcasts/) and [video](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ/featured).
 
-We also run a [Successful Funding Application Library](https://thewhitepube.co.uk/funding-library/) and a [Working Class Creatives Grant](https://thewhitepube.co.uk/grants/). We think broadly about how we can make a better art world for everybody (one that is fair, accessible, and a lot more affordable). The White Pube is funded by its readers on [Patreon](https://www.patreon.com/thewhitepube).
+We also run a [Successful Funding Application Library](https://thewhitepube.co.uk/funding-library/) and a [Working Class Creatives Grant](https://thewhitepube.co.uk/grants/). We think broadly about how we can make a better art world for everybody (one that is fair, accessible, and a lot more affordable). The White Pube is funded by its readers on [Patreon](https://www.patreon.com/thewhitepube), [Kofi](https://ko-fi.com/thewhitepube) and [Paypal](http://paypal.me/thewhitepube). 
 
 Alongside The White Pube, I teach, edit, mentor, chair talks, consult for arts organisations, select on open calls and prizes, discuss art and games, and do general cultural stuff like that.
 
@@ -23,6 +23,8 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 ❇️ copy and paste my RSS here: https://gdlp.co.uk/index.xml
 
 ❇️ [twitter](https://twitter.com/gdlp__)
+
+❇️ Username on discord is gdlp
 
 ## CONTACT >
 
@@ -37,3 +39,4 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 
 {{< figure src="https://i.imgur.com/0XhIVGj.jpeg" title="me in feb '23, photo by maria gorodeckaya" >}}
 
+can't believe I'm the most beautiful clever critic in the world 
