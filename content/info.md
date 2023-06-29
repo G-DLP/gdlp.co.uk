@@ -37,6 +37,6 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 
-{{< figure src="https://i.imgur.com/0XhIVGj.jpeg" title="me in feb '23, photo by maria gorodeckaya" >}}
+{{< figure src="https://i.imgur.com/bulq14z.jpg" title="alive and kicking in june '23" >}}
 
-can't believe I'm the most beautiful clever critic in the world 
+can't believe I'm the most beautiful clever critic in the whole wide world 
