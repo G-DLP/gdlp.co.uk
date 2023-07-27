@@ -22,7 +22,8 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 - [Successful Funding Application Library](https://thewhitepube.com/fundinglibrary)
 - Selecting on the monthly [Working Class Creatives Grant](https://thewhitepube.com/grants)
 - Juror for [John Moores Painting Prize 2023](https://www.liverpoolmuseums.org.uk/news/press-releases/jury-announced-john-moores-painting-prize-2023)
-- ['Ideas For A New Art World'](https://roughtradebooks.com/collections/editions/products/ideas-for-a-new-art-world-the-white-pube "Buy it Here") published with Rough Trade Books
+- ['Chaotic Nightclub Photos: The Review'](https://roughtradebooks.com/collections/editions/products/chaotic-nightclub-photos-the-review-gabrielle-de-la-puente-the-white-pube) published with Rough Trade Books 2023
+- ['Ideas For A New Art World'](https://roughtradebooks.com/collections/editions/products/ideas-for-a-new-art-world-the-white-pube "Buy it Here") published with Rough Trade Books 2021
 - [Critics Club](https://threeriversbexley.org/projects/critics-club) school for criticism with Three Rivers, Bexley
 - Advice Columns [Elephant](https://elephant.art/author/the-white-pube/) and [Dazed](https://www.dazeddigital.com/the-white-pube)
 - 2018 Global Initiative Speakers at Rhode Island School of Design
