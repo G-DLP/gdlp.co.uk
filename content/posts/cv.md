@@ -11,7 +11,7 @@ Gabrielle de la Puente, Liverpool
 
 Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff
 
-✏️ Signed with Jo Unwin Literary Agency
+✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
 
 🎓 Studied BA Fine Art at Central Saint Martins
 
@@ -42,6 +42,7 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 
 ## Curation 
 - Founder of [OUTPUT gallery](https://outputgallery.com) 2018-2021
+- Co-curation of John Moores Painting Prize 2023
 - Assistant Producer at AIR for [Tidal Twirlings, North Woolwich](https://airstudio.org/places/north-woolwich/)
 - Founder and co-curator of Little Man Gallery 2015-2017
 
