@@ -35,6 +35,7 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 - Teaching on Games Studies @ Leeds Beckett 
 
 ## Other writing
+- Column on [Culture at Home](https://elephant.art/section/culture-at-home/) for Elephant
 - A text about the [People of the Salt](https://www.vittlesmagazine.com/p/people-of-the-salt) for Vittles Cooking From Life series
 - Report on [The Impact of Using Social Media as an Artist](https://gdlp.co.uk/posts/art-report/) for Unlimited
 - Writing for [Vittles Season 3](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions?s=r)

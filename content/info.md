@@ -14,7 +14,9 @@ I co-run [The White Pube](https://thewhitepube.com) with [Zarina Muhammad](http:
 
 We also run a [Successful Funding Application Library](https://thewhitepube.co.uk/funding-library/) and a [Working Class Creatives Grant](https://thewhitepube.co.uk/grants/). We think broadly about how we can make a better art world for everybody (one that is fair, accessible, and a lot more affordable). The White Pube is funded by its readers on [Patreon](https://www.patreon.com/thewhitepube), [Kofi](https://ko-fi.com/thewhitepube) and [Paypal](http://paypal.me/thewhitepube). 
 
-Alongside The White Pube, I teach, edit, mentor, chair talks, consult for arts organisations, select on open calls and prizes, discuss art and games, and do general cultural stuff like that.
+🆕 Alongside The White Pube, I write a column for Elephant Magazine called [Culture at Home](https://elephant.art/section/culture-at-home/).
+
+I also teach, edit, mentor, chair talks, consult for arts organisations, select on open calls and prizes, discuss art and games, and do general cultural stuff like that.
 
 In a not too distant past life, I also used to be a curator. I launched [OUTPUT gallery](http://outputgallery.com) in 2018, a space in Liverpool City Centre that works exclusively with creatives from or based in Merseyside. I had to leave this job in 2021 when I got Long Covid -> now POTS.
 
