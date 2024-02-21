@@ -11,6 +11,8 @@ Gabrielle de la Puente, Liverpool
 
 Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff
 
+📕 Poor Artists book coming out October 3rd, pre-order [here](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
+
 ✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
 
 🎓 Studied BA Fine Art at Central Saint Martins
