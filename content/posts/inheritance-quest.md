@@ -11,4 +11,4 @@ first thing's first, the link is [here](https://blackdogonline.com/products/hard
 
 {{< youtube KdG-pzi6iYo >}}
 
-can't wait to get a physical copy!!!
+can't wait to get a physical copy :)
