@@ -24,8 +24,6 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 
 ❇️ copy and paste my RSS here: https://gdlp.co.uk/index.xml
 
-❇️ [twitter](https://twitter.com/gdlp__)
-
 ❇️ Username on discord is gdlp
 
 ## CONTACT >
@@ -39,6 +37,6 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 
-{{< figure src="https://i.imgur.com/bulq14z.jpg" title="alive and kicking in june '23" >}}
+{{< figure src="https://i.imgur.com/Y9ozJNj.jpeg" title="alive and kicking in march '24" >}}
 
 can't believe I'm the most beautiful clever critic in the whole wide world 
