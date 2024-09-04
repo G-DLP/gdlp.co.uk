@@ -25,7 +25,7 @@ i hope everyone has had a better summer than I have
 
 🐈
 
-p.s. I haven't written much this summer but I did manage
+p.s. I haven't written much this summer but I did manage the following:
 
 1. A text called [Slow Art](https://thewhitepube.co.uk/texts/2024/slow-art/) 
 2. A review of Ling Ma's book [Severance](https://thewhitepube.co.uk/texts/2024/severance/)
