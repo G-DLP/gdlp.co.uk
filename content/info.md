@@ -8,9 +8,9 @@ tags:
 
 My name is Gabrielle de la Puente b.94, Liverpool 📍 (puente pronounced pwen-tay. she/her)
 
-I am a writer. My book [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) is coming out October 3rd! 
+I am a writer. My book [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) is out now! North American release to come on Nov 12. 
 
-I co-run [The White Pube](https://thewhitepube.com) with [Zarina Muhammad](http://zarinamuhammad.co.uk/) where we publish criticism on art, video games, films, books, theatre and all the culture that gets on our nerves (for better or worse). We share reviews in [text](https://thewhitepube.com), [audio](https://thewhitepube.co.uk/podcasts/) and [video](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ/featured).
+I co-run [The White Pube](https://thewhitepube.com) with [Zarina Muhammad](http://zarinamuhammad.com) where we publish criticism on art, video games, films, books, theatre and all the culture that gets on our nerves (for better or worse). We share reviews in [text](https://thewhitepube.com), [audio](https://thewhitepube.co.uk/podcasts/) and [video](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ/featured).
 
 We also run a [Successful Funding Application Library](https://thewhitepube.co.uk/funding-library/) and a [Working Class Creatives Grant](https://thewhitepube.co.uk/grants/). We think broadly about how we can make a better art world for everybody (one that is fair, accessible, and a lot more affordable). The White Pube is funded by its readers on [Patreon](https://www.patreon.com/thewhitepube), [Kofi](https://ko-fi.com/thewhitepube) and [Paypal](http://paypal.me/thewhitepube). 
 

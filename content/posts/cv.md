@@ -11,13 +11,14 @@ Gabrielle de la Puente, Liverpool
 
 Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff
 
-📕 Poor Artists book coming out October 3rd, pre-order [here](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762)
-
 ✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
+
+🏖️ Publicist: Lotte Hall @ Penguin 
 
 🎓 Studied BA Fine Art at Central Saint Martins
 
 ## [The White Pube](http://thewhitepube.com "The White Pube") est.2015
+- [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762), 2024, book published by Particular, Penguin in the UK & Prestel in US/Canada
 - weekly reviews, essays & podcasts on [art](https://thewhitepube.com/art), [games](https://thewhitepube.com/games) and [other culture](https://thewhitepube.com/misc)
 - See [Instagram](https://www.instagram.com/thewhitepube/), [Twitter](https://twitter.com/TheWhitePube), [recently resurrected Youtube Channel](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
 - Podcast on [Apple](https://podcasts.apple.com/gb/podcast/the-white-pube/id1534961421), [Spotify](https://open.spotify.com/show/65q0BVy1k8p3R5G0WKYnV5) + wherever you get your podcasts
@@ -39,6 +40,7 @@ Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring
 ## Other writing
 - Column on [Culture at Home](https://elephant.art/section/culture-at-home/) for Elephant
 - A text about the [People of the Salt](https://www.vittlesmagazine.com/p/people-of-the-salt) for Vittles Cooking From Life series
+- Essay in Hardeep Pandhal's book [Inheritance Quest](https://blackdogonline.com/products/hardeep-pandhal-inheritance-quest?srsltid=AfmBOoo-rgS9OcaiVXTeSF4u_berxeNDBEFSASXdj9T1A_xKGPpN71ao)
 - Report on [The Impact of Using Social Media as an Artist](https://gdlp.co.uk/posts/art-report/) for Unlimited
 - Writing for [Vittles Season 3](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions?s=r)
 - National Gallery commissioned a text of [Eva Quantica](https://www.nationalgallery.org.uk/national-gallery-x/the-rules-do-not-apply/eva-quantica-by-mafj-alvarez)
