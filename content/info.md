@@ -8,7 +8,7 @@ tags:
 
 My name is Gabrielle de la Puente b.94, Liverpool 📍 (puente pronounced pwen-tay. she/her)
 
-I am a writer. My book [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) is out now! North American release to come on Nov 12. 
+I am a writer. My book [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) is out now in the UK and North America. Get it in the shops!! 
 
 I co-run [The White Pube](https://thewhitepube.com) with [Zarina Muhammad](http://zarinamuhammad.com) where we publish criticism on art, video games, films, books, theatre and all the culture that gets on our nerves (for better or worse). We share reviews in [text](https://thewhitepube.com), [audio](https://thewhitepube.co.uk/podcasts/) and [video](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ/featured).
 
@@ -23,6 +23,8 @@ In a not too distant past life, I also used to be a curator. I launched [OUTPUT 
 ## FOLLOW >
 
 ❇️ copy and paste my RSS here: https://gdlp.co.uk/index.xml
+
+❇️ [instagram](http://instagram.com/gabrielledelapuente/)
 
 ❇️ Username on discord is gdlp
 

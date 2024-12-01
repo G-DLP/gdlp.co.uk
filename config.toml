@@ -12,15 +12,7 @@ paginate=4 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Gabrielle de la Puente * Poor Artists book coming out October 3rd pre-order [here](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) >"
-
-# Social Tags
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/gdlp__"
-
+	subtitle = "Gabrielle de la Puente * writer in Liverpool * Poor Artists book is out now [ahhh](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) >"
 
 # Main menu Items
 
