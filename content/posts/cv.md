@@ -7,9 +7,9 @@ draft:
 tags: life
 ---
 
-Gabrielle de la Puente, Liverpool 
+Gabrielle de la Puente, writer in Liverpool. 
 
-Writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff
+For the first half of 2025, I am evaluating an NPO, and I have just started work as an Associate Lecturer at Central Saint Martins. My days are spent writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff.
 
 ✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
 
