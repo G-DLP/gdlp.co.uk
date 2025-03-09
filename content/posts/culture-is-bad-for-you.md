@@ -1,5 +1,5 @@
 ---
-title: coming to manchester to soon 💰
+title: coming to manchester soon 💰
 description: to talk about art and money and data
 date: 2025-01-28
 tldr: really cramming in these events before LDR summertime sickness hits

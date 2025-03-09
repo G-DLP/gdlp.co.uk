@@ -31,12 +31,6 @@ For the first half of 2025, I am evaluating an NPO, and I have just started work
 - Advice Columns [Elephant](https://elephant.art/author/the-white-pube/) and [Dazed](https://www.dazeddigital.com/the-white-pube)
 - 2018 Global Initiative Speakers at Rhode Island School of Design
 
-## Games
-- Juror on 2023 BAFTA Game Awards - Multiplayer category
-- Producer of [Moon Games](https://gdlp.co.uk/posts/moon-games/) for Tour de Moon
-- Game writing on [The Haven of Aves](https://davidblandy.itch.io/lost-eons-haven-of-aves) for David Blandy's Lost Eons series
-- Teaching on Games Studies @ Leeds Beckett 
-
 ## Other writing
 - Column on [Culture at Home](https://elephant.art/section/culture-at-home/) for Elephant
 - A text about the [People of the Salt](https://www.vittlesmagazine.com/p/people-of-the-salt) for Vittles Cooking From Life series
@@ -45,6 +39,12 @@ For the first half of 2025, I am evaluating an NPO, and I have just started work
 - Writing for [Vittles Season 3](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions?s=r)
 - National Gallery commissioned a text of [Eva Quantica](https://www.nationalgallery.org.uk/national-gallery-x/the-rules-do-not-apply/eva-quantica-by-mafj-alvarez)
 
+## Games
+- Juror on 2023 BAFTA Game Awards - Multiplayer category
+- Producer of [Moon Games](https://gdlp.co.uk/posts/moon-games/) for Tour de Moon
+- Game writing on [The Haven of Aves](https://davidblandy.itch.io/lost-eons-haven-of-aves) for David Blandy's Lost Eons series
+- Teaching on Games Studies @ Leeds Beckett 
+
 ## Curation 
 - Founder of [OUTPUT gallery](https://outputgallery.com) 2018-2021
 - Co-curation of John Moores Painting Prize 2023
@@ -52,8 +52,9 @@ For the first half of 2025, I am evaluating an NPO, and I have just started work
 - Founder and co-curator of Little Man Gallery 2015-2017
 
 ## Teaching
+- Associate Lecturer @ Central Saint Martins on the Diploma in Professional Studies 
 - Tutorials & lectures at art schools internationally
-- Mentoring artists (on DYCP)
+- Mentoring artists on DYCP
 
 
 
