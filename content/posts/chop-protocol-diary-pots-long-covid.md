@@ -4,6 +4,7 @@ description: physical rehabilitation for POTS maybe
 date: 2025-05-29
 tldr: i don't know if this will work but here's hoping
 draft: 
+time: 11:49:00
 tags: long covid
 ---
 
