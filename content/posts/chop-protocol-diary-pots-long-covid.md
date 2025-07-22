@@ -55,4 +55,8 @@ Random things to note:
 
 ## MONTH 2 TBC
 
-:)
+Fml. I finished Month 1 at the end of May, got 1 week into Month 2 and then I had to stop. I got food poisoning that drained the life out of me and it took me that long to recover, because Long Covid has fucked my immune system, that I lost all strength, all stamina, all the colour in my cheeks and whatever. I am restarting the ENTIRE THING here at the END OF JULY because of how bad I feel. Plus it's summer, and POTS can't do summer, so my body is just fucking empty. I'm literally going back to Month 1, Day 1. See you in nine years when I finally get to Month 2
+
+## MONTH 2 PROPER
+
+... loading ... 
