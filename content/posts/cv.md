@@ -9,7 +9,7 @@ tags: life
 
 Gabrielle de la Puente, writer in Liverpool. 
 
-For the first half of 2025, I am evaluating an NPO, and I have just started work as an Associate Lecturer at Central Saint Martins. My days are spent writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff.
+My days are spent writing, editing, curating, lecturing, chairing, consulting, teaching, mentoring, and just generally giving my opinion on stuff.
 
 ✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
 
@@ -33,11 +33,11 @@ For the first half of 2025, I am evaluating an NPO, and I have just started work
 
 ## Other writing
 - Column on [Culture at Home](https://elephant.art/section/culture-at-home/) for Elephant
-- A text about the [People of the Salt](https://www.vittlesmagazine.com/p/people-of-the-salt) for Vittles Cooking From Life series
+- Evaluation of 'at the Library' NPO
+- [Writing for Vittles](https://www.vittlesmagazine.com/p/people-of-the-salt) for Vittles Cooking From Life series & Season 3 
 - Essay in Hardeep Pandhal's book [Inheritance Quest](https://blackdogonline.com/products/hardeep-pandhal-inheritance-quest?srsltid=AfmBOoo-rgS9OcaiVXTeSF4u_berxeNDBEFSASXdj9T1A_xKGPpN71ao)
 - Report on [The Impact of Using Social Media as an Artist](https://gdlp.co.uk/posts/art-report/) for Unlimited
-- Writing for [Vittles Season 3](https://vittles.substack.com/p/the-hyper-regional-chippy-traditions?s=r)
-- National Gallery commissioned a text of [Eva Quantica](https://www.nationalgallery.org.uk/national-gallery-x/the-rules-do-not-apply/eva-quantica-by-mafj-alvarez)
+
 
 ## Games
 - Juror on 2023 BAFTA Game Awards - Multiplayer category
@@ -52,7 +52,7 @@ For the first half of 2025, I am evaluating an NPO, and I have just started work
 - Founder and co-curator of Little Man Gallery 2015-2017
 
 ## Teaching
-- Associate Lecturer @ Central Saint Martins on the Diploma in Professional Studies 
+- [Current] Associate Lecturer @ Central Saint Martins on the Diploma in Professional Studies 
 - Tutorials & lectures at art schools internationally
 - Mentoring artists on DYCP
 

@@ -16,7 +16,7 @@ My starting point is that: I got sick with Long Covid January 2021, housebound f
 Obviously I don’t know if I will be able to, or if post-exertional malaise will put its foot down. But YouTube fatefully algorithmed a video about the CHOP Protocol to me, an 8-month rehabilitation programme for people with POTS developed by the Children’s Hospital of Philadelphia, and I decided I would try it. Things were so bad for me at the start of 2025 that I pulled out of lots of work things for the foreseeable (I am a writer who is supposed to be on a book tour), so now is the time to try it. Now is the best time if things go very, very wrong.
 
 
-## MONTH 1
+## MONTH 1 / as of may 29th
 
 Really hard mentally and then really good mentally. Really hard physically, and then more exciting than hard. 
 
@@ -57,6 +57,28 @@ Random things to note:
 
 Fml. I finished Month 1 at the end of May, got 1 week into Month 2 and then I had to stop. I got food poisoning that drained the life out of me and it took me that long to recover, because Long Covid has fucked my immune system, that I lost all strength, all stamina, all the colour in my cheeks and whatever. I am restarting the ENTIRE THING here at the END OF JULY because of how bad I feel. Plus it's summer, and POTS can't do summer, so my body is just fucking empty. I'm literally going back to Month 1, Day 1. See you in nine years when I finally get to Month 2
 
-## MONTH 2 PROPER
+## MONTH 2 PROPER / as of september 19th
 
-... loading ... 
+oooo-weeeee. after restarting everything, i've finally finished month 2 and i'm FeeEeeeEeliiing Gooooood dum badum badum badum dunununun
+
+{{< figure src="https://i.imgur.com/QtaYP7r.jpeg" title="big smilies" >}}
+
+It's such a step up but the 28 minutes I did this evening?? i could have done more. I'm feeling relaxed and capable and -- i think it's because the entire process of following these very detailed instructions, and keeping my eye on the Visible App when I'm using the rowing machine, are together allowing me to trust what I can and can't do with precision I didn't have before. And that's on top of Midodrine, which helped me feel way less sick this summer. I still took a fatigue hit but I didn't have the nausea this time around.
+
+-- I decided to carry on going the gym unless it was over 25 degrees C.
+
+-- I decided to take rest days when I needed them. (duh, but not duh when you're me)
+
+-- I repeated the first week just to be safe.
+
+-- And one time, in the final week, I went ham on a strength training day _because_ I was feeling so strong but then I couldn't move the next day. lesson learned! 
+
+-- where it says GIG i popped an extra midodrine and went to a 45 minute gig instead. the fact that i can even decide to do that.........wild to me
+
+-- I'm now having 2 SiS electrolyte tablets in a litre of water when I wake up, and ANOTHER 2 when I take my afternoon Midodrine with another litre. It is expensive but I can really feel the difference when I don't now so I will just have to firm it
+
+-- i met someone today I hadn't seen since april and the first thing they said was that I'd lost weight ('and was I okay?'). I am not someone who ever thinks about weight so Idk if this is true or not. My theory is just that I probably look more human these days because I have a bit of colour in my cheeks. But I thought I'd mention it in case anyone reading cares about that stuff
+
+see ya when i have month 3 in the bag 
+
+
