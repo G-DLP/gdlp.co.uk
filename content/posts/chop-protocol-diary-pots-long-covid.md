@@ -9,6 +9,7 @@ tags: long covid
 ---
 
 
+
 I usually post work updates on this website but I wanted to share my experience of doing the [CHOP Protocol](https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf) somewhere, because whilst there are a few videos online, I struggled to find complete blogs that didn’t taper off after a few months. Also, my doctors don’t know what it is and maybe yours don’t either. _I will return to this page each month to share an update for anyone interested._
 
 My starting point is that: I got sick with Long Covid January 2021, housebound for half a year, diagnosed with POTS January 2022 and had some help from beta blockers until a Covid reinfection in spring 2023 fucked me up even more. 2023-2025 was spent in an unending arm wrestle with fatigue, every single POTS symptom on the list, and Vasovagal syndrome. I really tried to do stuff but my body really didn’t want me to. Then, in April 2025, my cardiologist started me on Midodrine and it felt so much easier to be in my body all of a sudden. I wanted to try building some stamina back up.
@@ -16,7 +17,7 @@ My starting point is that: I got sick with Long Covid January 2021, housebound f
 Obviously I don’t know if I will be able to, or if post-exertional malaise will put its foot down. But YouTube fatefully algorithmed a video about the CHOP Protocol to me, an 8-month rehabilitation programme for people with POTS developed by the Children’s Hospital of Philadelphia, and I decided I would try it. Things were so bad for me at the start of 2025 that I pulled out of lots of work things for the foreseeable (I am a writer who is supposed to be on a book tour), so now is the time to try it. Now is the best time if things go very, very wrong.
 
 
-## MONTH 1 / as of may 29th
+## MONTH 1 / posted: 29th may 2025
 
 Really hard mentally and then really good mentally. Really hard physically, and then more exciting than hard. 
 
@@ -57,7 +58,7 @@ Random things to note:
 
 Fml. I finished Month 1 at the end of May, got 1 week into Month 2 and then I had to stop. I got food poisoning that drained the life out of me and it took me that long to recover, because Long Covid has fucked my immune system, that I lost all strength, all stamina, all the colour in my cheeks and whatever. I am restarting the ENTIRE THING here at the END OF JULY because of how bad I feel. Plus it's summer, and POTS can't do summer, so my body is just fucking empty. I'm literally going back to Month 1, Day 1. See you in nine years when I finally get to Month 2
 
-## MONTH 2 PROPER / as of september 19th
+## MONTH 2 PROPER / posted: september 19th
 
 oooo-weeeee. after restarting everything, i've finally finished month 2 and i'm FeeEeeeEeliiing Gooooood dum badum badum badum dunununun
 
@@ -82,3 +83,24 @@ It's such a step up but the 28 minutes I did this evening?? i could have done mo
 see ya when i have month 3 in the bag 
 
 
+## MONTH 3 / posted: october 19th
+
+this month was basically 30 minutes on a rowing machine over and over again, and then there were two days when I had to go at the Maximum Steady State i could handle, and two follow-up days with 40 minute rows at a gentle pace. I did it all. The weeks with the MSS sessions made me feel extra fatigued, like, to the point where I achieved little else those days. But overall, I felt great about myself. Great for having gone faster than normal. Great for seeing the numbers go bigger. Great also for seeing some of my strength training weights increase as below:
+
+- Leg press 40 -> 50
+- Calf raise 30 -> 40 
+- Chest press 10 -> 15 
+- Leg curl (lying down) 25 
+- Leg curl (sitting up) 30 
+- Leg extension 25 
+- Pulley 15 -> 20 
+- Adductor 35 -> 40 
+- Rowing 15 -> 20 
+
+But this is what I'll leave you with here at the end of month 3: I got really excited to tell people I'd done 40 minutes on a rowing machine, and friends and cousins were excited too, but when I told my boyfriend's mum she asked if I thought the POTS was going away then. My boyfriend answered before I could figure out how to word it myself. He said _the POTS is still there, she's still sick, but she's just beefing up so that she can handle the POTS better_ and -- yeah. that's it isn't it.
+
+but the very next day, he asked if I wanted to go for a walk. we popped into charity shops and a supermarket and a greengrocers and -- oh no -- i felt myself shutting down, and by the time we hit the couch back home it had been an hour walking, and I just felt this horrible nausea, head empty, wiped state come over me. And I thought, wow I can do 40 minutes on a rowing machine and live to tell the tale but I cannot amble for an hour without ending up like this, and it's all because when i'm rowing, my legs are up. 
+
+I have this fear that the chop protocol is gonna help me but only in very specific circumstances. but that's the comment of a girl at the end of month 3. month 4 week 1 introduces upright exercises so I'll be swapping the rowing machine for a bike; and by the end of month 4, I'll be on an elliptical. I think month 4 is what it's all been building to. I hope it is, anyway. I hope I can do it? I want it to beef my legs and reset my nervous system so that I can go to the bakery up the top and say yeah let's go to that shop down the other end of the road bla bla without bringing on a crash. 
+
+I think I have 40% anxiety about what is about to happen but 60% hope and that's probably the best i can muster for now 

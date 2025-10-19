@@ -20,7 +20,7 @@ My days are spent writing, editing, curating, lecturing, chairing, consulting, t
 ## [The White Pube](http://thewhitepube.com "The White Pube") est.2015
 - [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762), 2024, book published by Particular, Penguin in the UK & Prestel in US/Canada
 - weekly reviews, essays & podcasts on [art](https://thewhitepube.com/art), [games](https://thewhitepube.com/games) and [other culture](https://thewhitepube.com/misc)
-- See [Instagram](https://www.instagram.com/thewhitepube/), [Twitter](https://twitter.com/TheWhitePube), [recently resurrected Youtube Channel](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
+- See [Instagram](https://www.instagram.com/thewhitepube/) / [recently resurrected Youtube Channel](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
 - Podcast on [Apple](https://podcasts.apple.com/gb/podcast/the-white-pube/id1534961421), [Spotify](https://open.spotify.com/show/65q0BVy1k8p3R5G0WKYnV5) + wherever you get your podcasts
 - [Successful Funding Application Library](https://thewhitepube.com/fundinglibrary)
 - Selecting on the monthly [Working Class Creatives Grant](https://thewhitepube.com/grants)
