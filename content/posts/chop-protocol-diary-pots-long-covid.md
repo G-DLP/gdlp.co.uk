@@ -1,14 +1,14 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2025-05-29
+date: 2025-10-19
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
 tags: long covid
 ---
 
-
+🤞🏻
 
 I usually post work updates on this website but I wanted to share my experience of doing the [CHOP Protocol](https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf) somewhere, because whilst there are a few videos online, I struggled to find complete blogs that didn’t taper off after a few months. Also, my doctors don’t know what it is and maybe yours don’t either. _I will return to this page each month to share an update for anyone interested._
 
