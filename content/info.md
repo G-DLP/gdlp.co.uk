@@ -32,6 +32,6 @@ If I did not also suffer Long Covid, I think I would have been an incredibly ann
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-{{< figure src="https://i.imgur.com/ndVgiZd_d.webp?maxwidth=760&fidelity=grand" title="summer 2025 with Coco" >}}
+{{< figure src="/1.jpg" title="summer 2025 with Coco" >}}
 
 can't believe I'm the most beautiful clever critic in the whole wide world 
