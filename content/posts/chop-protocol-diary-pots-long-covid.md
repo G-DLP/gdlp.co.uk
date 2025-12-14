@@ -1,7 +1,7 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2025-10-19
+date: 2025-12-14
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
@@ -104,3 +104,51 @@ but the very next day, he asked if I wanted to go for a walk. we popped into cha
 I have this fear that the chop protocol is gonna help me but only in very specific circumstances. but that's the comment of a girl at the end of month 3. month 4 week 1 introduces upright exercises so I'll be swapping the rowing machine for a bike; and by the end of month 4, I'll be on an elliptical. I think month 4 is what it's all been building to. I hope it is, anyway. I hope I can do it? I want it to beef my legs and reset my nervous system so that I can go to the bakery up the top and say yeah let's go to that shop down the other end of the road bla bla without bringing on a crash. 
 
 I think I have 40% anxiety about what is about to happen but 60% hope and that's probably the best i can muster for now 
+
+## MONTH 4 / posted: december 14th 
+
+I have had massive ups and downs since I last wrote, and some bad news I'll get to. but let's get the technical stuff out the way:
+
+It took 2 months to complete the 4th month of the programme because the move to upright exercise was so hard that I repeated the first few weeks on the bike multiple times until I felt ready to move on.  My back hurt the first week, and my arms were dripping in sweat to begin with. but by the end of it, I was just like, a bit bored? haha. I could do it but it made me miss the rowing machine for being so much more stimulating of an activity.
+
+Fwiw, I tried doing the same 'speed' on the bike as I had been on the rowing machine by matching the calorie counter as a rough estimate?? i didn't know how else to translate speed from one machine to another and I think it worked well for me tbh. Don't ask me what a calorie means in practice, I make a point not to know. 
+
+but yeah, it was hard. and slow. not just because of the position of my body, but because it coincided with me tapering off beta blockers. I did this section with half the beta blocker dose I've been taking for 4 years, and i'll be doing the next month with absolutely none. that's because i have upped my dose of midodrine from 5mg to 7.5 and as the two medicines sorta work against each other, it's time to see how far midodrine can take me without the beta blockers tampering things (however much I will miss them </3>)
+
+More time meant a lot more strength training so...
+
+- Leg press 50 -> 60  
+- Calf press 40 -> 50 -> 60 
+- Leg extension -> 30 -> 35 
+- Leg curl sitting up 30 -> 35 
+- Leg curl lying down 25 -> 30 
+- Chest press 15 -> 20 
+- Adductor 35 -> 40 
+
+In the final week of this month, it says move onto training mode 3 so I braved the elliptical. i think because I had done so much extra bike time, it was actually doable. 30 entire minutes. I felt really emotional to be honest. I could have done more except my feet had gone completely fucking numb. As soon as I stepped off and walked across the gym to get out, I felt the blood returning to my feet and it felt weirdly incredible haha. 
+
+So yeah, that's all the progress. But let's get onto the bad newssssss arrghhhhhhhh
+
+I'll tell you as much as I know because it's relevant, and you can make of that what you will. I've had a sore throat for a while. I would tell you I've had it since Covid began January 2021, but that it was so far down my list of symptoms that I never brought it up to the doctor until recently. It had just gotten so much worse. If I did a lecture, or spoke to a friend for an hour, you could hear it in my voice. So the doctor sent me to EMT but told me it's probably just a symptom of chronic fatigue and not to worry. EMT put a camera down my throat and I could see on the screen how weird and yellow it was. He said to me, you've got acid reflux. the acid in your stomach is coming back up and it's damaging your throat. 'this will explain all your heartburn' and i was like uhhh but I don't have heartburn. so he left me with a diagnosis of silent reflux, or [Laryngopharyngeal reflux](https://en.wikipedia.org/wiki/Laryngopharyngeal_reflux) and told me to eat and drink a low acid diet. 
+
+As with so much UK healthcare I come across, it's a case of slapping a plaster of it and never so much as thinking about the root cause. But in my research since I've learnt that there's a shit load of things I was doing that can make your stomach acid come up and damage your throat, such as
+
+1. BETA BLOCKERS hahahaha
+2. chugging water, just like absolutely fucking chugging it because you have POTS and you've been told to clinically chug water, thereby overfilling your stomach and making the acid come up
+3. chugging effervescent electrolytes is even worse
+4. doing cardio straight after you have eaten 
+5. Lying down after cardio
+6. Lying down after eating
+7. Lying down in general because then the stomach is level with your mouth and all the stomach stuff can come back, even though i HAVE POTS AND LYING DOWN IS THE ONLY THING THAT RELIEVES THE POTS SYMPTOMS   HA HA HAHAHAHA
+8. HAVING POTS*
+
+*because it's not a case of doing the things on this list = silent reflux. but it is the case that if you have dysautonomia, and your autonomic nervous system isn't functioning properly, then the lower oesophageal sphincter that is supposed to be a plug on your stomach can also be dysfunctional. I read one paper that said 60% of people with POTS develop LPR. Given so many people got POTS around the same time due to Covid, how many of us are going to develop LPR now? 
+
+I am on PPIs and Gaviscon and a low acid diet until my throat heals, but what then? I stay on the low acid diet forever, even though I'm already on a low-medium glycemic diet to help me with POTS, and there's no fucking food left in the venn diagram between those two? Man alive. I have cried so much this month from the sheer overwhelm of how to feed myself. I've been so hungry because I haven't quite figured it out yet. 
+
+And I know I will -- I know with any diagnosis it takes time, and the solution is always 'you have to be really prepared' but this is _food_. the thought of not being able to eat in restaurants or eat easily if I travel, that really takes the wind out of my sails when doing the CHOP protocol for example has given me such an appetite for travelling again. I really want to go to Chile in 2026 but if the pepsin in my stomach is still burning my throat... man i dunno how to proceed. I'm so sad. 
+
+hopefully next month's update is coming from a different place. i am genuinely looking forward to going on the elliptical again. but yeah, just a warning about pots and lpr so you can keep an eye out for symptoms yourself, especially if you are introducing cardio into the mix TT 
+
+
+
