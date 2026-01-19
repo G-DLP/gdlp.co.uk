@@ -7,9 +7,9 @@ draft: false
 tags: writing
 ---
 
-every other sunday, I post a review on [thewhitepube.com](https://thewhitepube.co.uk/); every other sunday, Zarina does. Here's all the things I wrote about in 2025, which definitely didn't end up being every other sunday due very poor health at the start of the year, and then a summer spent writing a book that should be out winter '26 with Particular Books/Penguin Random House. Stay tuned : ) 
+every other sunday, I post a review on [thewhitepube.com](https://thewhitepube.co.uk/); every _other_ sunday, Zarina does. Here's all the things I wrote about in 2025, which definitely didn't end up being every other sunday due very poor health at the start of the year, and then a summer spent writing a book with Z that should be out winter '26 with Particular Books/Penguin Random House. Stay tuned : ) 
 
-The subjects also follow my health, beginning with books, and then moving into live events as the year prorgressed. 
+The subjects also follow my health, beginning with books, and then moving into live events as the year progresses: 
 
 1. [Woman on the Edge of Time by Marge Piercy](https://thewhitepube.co.uk/texts/2025/woman-on-the-edge-of-time/)
 2. [London Art Fair](https://thewhitepube.co.uk/texts/2025/london-art-fair/)
@@ -28,5 +28,5 @@ The subjects also follow my health, beginning with books, and then moving into l
 15. [Katabasis by R.F. Kuang](https://thewhitepube.co.uk/texts/2025/katabasis/)
 16. [Low Roar](https://thewhitepube.co.uk/texts/2025/low-roar/)
 
-I'm happy with my writing but I realised towards the end of the year how much I miss quick texts. 1000 words, 1500. I'm going to carry on with that in the new year. It's also a bit practical so I can focus on other work (spent the last 2 weeks on a funding example, for example). Grateful to have our audience on the website and Discord so that this reading lands somewhere. Grateful to have writing be the centre of my world. 
+I'm happy with my writing but I realised towards the end of the year how much I miss quick texts. 1000 words, 1500. I'm going to carry on with that in 2026. It's also a bit practical. I need to focus on other work (spent the last 2 weeks on a funding application for example). Grateful to have our audience on the website and Discord so that this reading lands somewhere. Grateful to have writing be the centre of my world 🤝
 

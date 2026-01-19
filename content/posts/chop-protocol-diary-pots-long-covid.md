@@ -170,6 +170,8 @@ A full month on the elliptical bar the one day I thought 'what if I walked fast 
 - Leg press 70 -> 80 
 - Calf press 70 -> 80
 
+tip: on the days when it's cardio AND strength training, do the strength stuff first
+
 It's been fun telling friends that I can do 40 minutes, or 60 minutes, on an elliptical and them going _I COULDN'T DO THAT_. Weird to feel like I'm overtaking normal people. Satisfying. But while there's the pride, the satisfaction, and more confidence, there's also a bit of 'wow I spend so much time in the gym almost every single day of the week, it is basically my job' as well as some '60 minutes is a long time to spend on an elliptical i'm a bit bored of all the music i like, and i can't concentrate on my audiobook, and i need something akin to techno to get me through this 40 minute MSS day' 
 
 More seriously, I think in the elliptical with stationary arms, I might have found my limit-ish. Keeping an eye on my heart rate on the Visible app, I'm reaching 181 sometimes doing the elliptical. As a reminder, I'm currently taking 3x 2.5mg of Midodrine every day. I was only ever around 105-110 on the rowing machine, so the high numbers scared me and I had to look up what I should be aiming for, or not aiming for. I found the following [heart rate targets](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates) on the British Heart Foundation. 
