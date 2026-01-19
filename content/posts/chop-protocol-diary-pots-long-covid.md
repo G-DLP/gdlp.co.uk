@@ -1,7 +1,7 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2025-12-14
+date: 2026-01-19
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
@@ -9,6 +9,8 @@ tags: long covid
 ---
 
 🤞🏻
+
+_continuously updating this blog since 29th may 2025_
 
 I usually post work updates on this website but I wanted to share my experience of doing the [CHOP Protocol](https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf) somewhere, because whilst there are a few videos online, I struggled to find complete blogs that didn’t taper off after a few months. Also, my doctors don’t know what it is and maybe yours don’t either. _I will return to this page each month to share an update for anyone interested._
 
@@ -23,7 +25,7 @@ Really hard mentally and then really good mentally. Really hard physically, and 
 
 I found a low-key gym near my house and decided to use a rowing machine for my cardio days. I let the gym staff know what I was there for in case I fainted or something, and they were really welcoming and caring and supportive and vigilant. I printed the very long PDF the Chop Protocol is contained in, turned to the page for month 1 and wrote out a list of the machines I would use on strength training days on the right-hand side to try to get things straight in my head. It looked a little like this:
 
-{{< figure src="https://i.imgur.com/NQwrilm.jpeg" title="Fwiw, I really enjoy carrying a mysterious stapled wad of paper around the gym with me." >}}
+{{< figure src="/11.JPG" title="Fwiw, I really enjoy carrying a mysterious stapled wad of paper around the gym with me.">}}
 
 
 
@@ -62,7 +64,7 @@ Fml. I finished Month 1 at the end of May, got 1 week into Month 2 and then I ha
 
 oooo-weeeee. after restarting everything, i've finally finished month 2 and i'm FeeEeeeEeliiing Gooooood dum badum badum badum dunununun
 
-{{< figure src="https://i.imgur.com/QtaYP7r.jpeg" title="big smilies" >}}
+{{< figure src="/2.JPG" title="my greatest achievement" >}}
 
 It's such a step up but the 28 minutes I did this evening?? i could have done more. I'm feeling relaxed and capable and -- i think it's because the entire process of following these very detailed instructions, and keeping my eye on the Visible App when I'm using the rowing machine, are together allowing me to trust what I can and can't do with precision I didn't have before. And that's on top of Midodrine, which helped me feel way less sick this summer. I still took a fatigue hit but I didn't have the nausea this time around.
 
@@ -85,6 +87,8 @@ see ya when i have month 3 in the bag
 
 ## MONTH 3 / posted: october 19th
 
+{{< figure src="/3.JPG" title="big jump up" >}}
+
 this month was basically 30 minutes on a rowing machine over and over again, and then there were two days when I had to go at the Maximum Steady State i could handle, and two follow-up days with 40 minute rows at a gentle pace. I did it all. The weeks with the MSS sessions made me feel extra fatigued, like, to the point where I achieved little else those days. But overall, I felt great about myself. Great for having gone faster than normal. Great for seeing the numbers go bigger. Great also for seeing some of my strength training weights increase as below:
 
 - Leg press 40 -> 50
@@ -106,6 +110,8 @@ I have this fear that the chop protocol is gonna help me but only in very specif
 I think I have 40% anxiety about what is about to happen but 60% hope and that's probably the best i can muster for now 
 
 ## MONTH 4 / posted: december 14th 
+
+{{< figure src="/4.JPG" title="i did a lot of repeats" >}}
 
 I have had massive ups and downs since I last wrote, and some bad news I'll get to. but let's get the technical stuff out the way:
 
@@ -151,4 +157,29 @@ And I know I will -- I know with any diagnosis it takes time, and the solution i
 hopefully next month's update is coming from a different place. i am genuinely looking forward to going on the elliptical again. but yeah, just a warning about pots and lpr so you can keep an eye out for symptoms yourself, especially if you are introducing cardio into the mix TT 
 
 
+## MONTH 5 / posted: jan 19th 
 
+well that was quite prompt of me. hello, i did it basically in a month, give or take the few days when I was seeing friends over Christmas. I thought it was gonna be a more disruptive time but that many people were sick with covid and the flu, most of my plans got cancelled. Felt glad I'd been wearing a mask in the gym even if it makes dickheads come up and ask me why I'm wearing a mask all as a ruse so they can warn me I'm breathing in my own bacteria and making myself sick. suck my dickkkkk 
+
+{{< figure src="/5.jpg" title="month 5 in all its glory" >}}
+
+A full month on the elliptical bar the one day I thought 'what if I walked fast on a flat treadmill for a full hour just to see if I could do it.' I could do it. It was just funny getting off at the end and walking across the gym to leave because it felt like I was on a travellator. Reminded me of being a kid spending a full day in a pool on holiday and sitting at dinner later but feeling my legs wave as if I was still floating in water.
+
+- Leg curl 35 -> 40 
+- Leg extension 35 -> 40 
+- Leg press 70 -> 80 
+- Calf press 70 -> 80
+
+It's been fun telling friends that I can do 40 minutes, or 60 minutes, on an elliptical and them going _I COULDN'T DO THAT_. Weird to feel like I'm overtaking normal people. Satisfying. But while there's the pride, the satisfaction, and more confidence, there's also a bit of 'wow I spend so much time in the gym almost every single day of the week, it is basically my job' as well as some '60 minutes is a long time to spend on an elliptical i'm a bit bored of all the music i like, and i can't concentrate on my audiobook, and i need something akin to techno to get me through this 40 minute MSS day' 
+
+More seriously, I think in the elliptical with stationary arms, I might have found my limit-ish. Keeping an eye on my heart rate on the Visible app, I'm reaching 181 sometimes doing the elliptical. As a reminder, I'm currently taking 3x 2.5mg of Midodrine every day. I was only ever around 105-110 on the rowing machine, so the high numbers scared me and I had to look up what I should be aiming for, or not aiming for. I found the following [heart rate targets](https://www.heart.org/en/healthy-living/fitness/fitness-basics/target-heart-rates) on the British Heart Foundation. 
+
+{{< figure src="/hr.png" title="from the British Heart Foundation website" >}}
+
+I'm 31. If my max heart rate is estimated to be 185 and i'm hitting 181 on the elliptical........ ha ha. So when I say I've found my limit, I mean, I don't know if I _should_ actually progress to jogging on a treadmill if it means going over this figure and bringing on new problems. I haven't been booked back in for an appointment with my cardiologist yet so I have no one to ask in the meantime. But yeah. Maybe I just stick to the elliptical until I've had a chat with him? 
+
+Before I sign off for the month: I am feeling 10% better mentally after the shitshow last month. I've been working my way through a [low acid cookbook](https://www.mollypelletier.com/flora-shop) and while I'm a lot less hungry than I was, I still haven't found food I'm dying to eat. My throat got a bit better, and then I ate something I shouldn't have, and it got bad again. But gym-wise, I am having to leave a full 2 hours between eating and going the gym otherwise I can now feel my throat burning. That or I get a bad taste in my mouth, so the silent part of silent reflux is getting easier to sus out. 
+
+it's exciting to be at this point because the reason i decided to keep a blog was because I could only find on online that went up to the 5th month. we are in uncharted territory now. 
+
+🤞🏻
