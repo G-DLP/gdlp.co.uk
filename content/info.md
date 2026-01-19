@@ -32,6 +32,6 @@ If I did not also suffer Long Covid, I think I would have been an incredibly ann
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-{{< figure src="/1.jpg" title="summer 2025 with Coco" >}}
+{{< figure src="/gdlp25.jpg" title="dec 2025 at my desk with piri" >}}
 
 can't believe I'm the most beautiful clever critic in the whole wide world 
