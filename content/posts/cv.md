@@ -13,17 +13,17 @@ My days are spent writing, editing, curating, lecturing, chairing, consulting, t
 
 ✏️ Agent: Milly Reilly @ [Colwill & Peddle](https://www.colwillandpeddle.com/authors/the-white-pube)
 
-🏖️ Publicist: Lotte Hall @ Penguin 
+🏖️ Publicist: Yasemin Mokhtari @ Penguin 
 
 🎓 Studied BA Fine Art at Central Saint Martins
 
 ## [The White Pube](http://thewhitepube.com "The White Pube") est.2015
-- [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762), 2024, book published by Particular, Penguin in the UK & Prestel in US/Canada
-- weekly reviews, essays & podcasts on [art](https://thewhitepube.com/art), [games](https://thewhitepube.com/games) and [other culture](https://thewhitepube.com/misc)
-- See [Instagram](https://www.instagram.com/thewhitepube/) / [recently resurrected Youtube Channel](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
+- [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762), 2024, published by Particular, Penguin UK & Prestel US/Canada
+- weekly reviews, essays & podcasts [here](https://thewhitepube.co.uk/texts/)
+- See [Instagram](https://www.instagram.com/thewhitepube/) / [YouTube](https://www.youtube.com/channel/UC3dcNljL17OyeC_BcG0WtBQ)
 - Podcast on [Apple](https://podcasts.apple.com/gb/podcast/the-white-pube/id1534961421), [Spotify](https://open.spotify.com/show/65q0BVy1k8p3R5G0WKYnV5) + wherever you get your podcasts
 - [Successful Funding Application Library](https://thewhitepube.com/fundinglibrary)
-- Selecting on the monthly [Working Class Creatives Grant](https://thewhitepube.com/grants)
+- [Working Class Creatives Grant](https://thewhitepube.com/grants)
 - Juror for [John Moores Painting Prize 2023](https://www.liverpoolmuseums.org.uk/news/press-releases/jury-announced-john-moores-painting-prize-2023)
 - ['Chaotic Nightclub Photos: The Review'](https://roughtradebooks.com/collections/editions/products/chaotic-nightclub-photos-the-review-gabrielle-de-la-puente-the-white-pube) published with Rough Trade Books 2023
 - ['Ideas For A New Art World'](https://roughtradebooks.com/collections/editions/products/ideas-for-a-new-art-world-the-white-pube "Buy it Here") published with Rough Trade Books 2021

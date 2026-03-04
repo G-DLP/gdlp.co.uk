@@ -1,7 +1,7 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2026-01-19
+date: 2026-03-04
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
@@ -185,3 +185,29 @@ Before I sign off for the month: I am feeling 10% better mentally after the shit
 it's exciting to be at this point because the reason i decided to keep a blog was because I could only find on online that went up to the 5th month. we are in uncharted territory now. 
 
 🤞🏻
+
+## Month 6 / posted Mar 3
+
+I am in a better mood this month haha. I'm back on meds for the acid reflux but I've gone with famotidine this time and after 2 weeks of ??? I finally noticed some changes, likeee I'm not feeling the burning in my throat when I'm on the elliptical anymore. My throat is recovering! So, month 6 looked a bit like this: 
+
+{{< figure src="/month6.jpg" title="month 6 easy peasy sort of" >}}
+
+I repeated the first week. I had this conversation with my boyfriend that gave some useful outsider perspective I hadn't considered. I have been so keen to progress and get through the weeks and the months and cross these boxes off! But he said I could always repeat a week and stay on even ground for a minute. And he meant that I could repeat a week not just to finesse it, but so that I had energy for other things beside the gym that week. Yeah. I guess I began this entire project with the concern that the gym was going to become a bit pathological for me -- that I'd go the gym so that I could go to the gym, where I should be going the gym so that I can live a fuller life. I deffo felt like that over these past 2/3 months and I was grateful for the chat. Because yeah, it's a lot of time to spend in the gym when there's a lot more life to live. 
+
+but in terms of Capability: 
+
+- Leg press 80 -> 90
+- Calf press 80 -> 90
+
+The leg press is pretty easy on 90 now so I'm going to 100 next week. That's wild to me. If you scroll back to the first instalment of this big long blog post, the leg press was 30kg! I am changing so much. And change is possible (for me! finally! in these very specific circumstances of Midodrine and self-employment with enough time to change). pretty cool
+
+This is the first time interval training has been on the programme and it's not clear on the PDF how long you should do it for so I settled for half an hour. As in [3 minutes base pace, 1 minute as fast as I can) on repeat for half an hour. IVE released Bang Bang in this period and I basically listened to that on repeat so that I could go fast when they sang fast haha. Whatever it takes to get through. 
+
+I have had more comments from people about my weight. I don't think I would ever say that out loud to someone? it's been surprising because weight was never in my mind going into this, only stamina and wanting to be in less pain.
+
+But on weight, here's a new feeling I might as well write about: when I did the 5x1 interval day, the ellipticals were busy so I tried running on a treadmill for the first time since... 2019? I got sick 2021 and you know what's happened since then. And the thing was, I could do it. I did half an hour of 5x1 intervals but I found the physical sensation of running with more weight on my body uncomfortable. As in, the actual up-and-down bouncing pull of weight down my legs. I have no idea how much I weigh in numbers to give you any more details -- I'm a size 18 in clothes, before I got sick I was a 14. But I thought huh, I can be 'body positive' and still find the sensation of my body moving uncomfortable, that's allowed. And I would quite like to run more but I am going to return to the elliptical where I don't get that. Actually, if I keep losing weight without that being a goal, then I might return to the treadmill if I think I can run without experiencing that feeling again. 
+
+Uhmmm, what else. The 7 day week was a bit too far and I should have broken it up. Sometimes I read the numbers wrong this month and did more or less, so I gotta pay more attention next month. 
+
+I am going for dinner with my cousins tonight and I'll make that my celebration for the end of month 6 : ) I am proud at how straightforward it has been. See you next month (but maybe not in a month, so I can stay on certain weeks to live more life)
+

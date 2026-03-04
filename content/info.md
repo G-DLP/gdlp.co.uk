@@ -12,7 +12,7 @@ I am a writer. I like knitting, Overwatch, octagonal glasses, cousins, learning 
 
 I suffer a pie-chart of freelancing. I am an Associate Lecturer at Central Saint Martins & I assist an author. But the biggest slice of my pie is [The White Pube](https://thewhitepube.com), a website I have been running with [Zarina Muhammad](http://zarinamuhammad.com) since 2015. We published our debut book [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762) in 2024 with Particular Press, Penguin, in the UK & with Prestel in North America. It was shortlisted & highly commended for the 2025 Gordon Burn Prize, and shortlisted for the Bread & Roses prize too. 
 
-If I did not also suffer Long Covid, I think I would have been an incredibly annoying digital nomad. As luck would have it, I am at home almost all of the time with two cats called Coco and Piranesi. I knit most days, play Overwatch every week with my cousins, and my online tutor in Chile is doing a good job of answering la llamada de mi sangre. I still find plenty to write about. 
+If I did not also suffer POTS, I think I would have been an incredibly annoying digital nomad. As luck would have it, I am at home almost all of the time with two cats called Coco and Piranesi. I knit most days, play Overwatch every week with my cousins, and my online tutor in Chile is doing a good job of answering la llamada de mi sangre. I still find plenty to write about. 
 
 ## FOLLOW >
 
@@ -32,6 +32,6 @@ If I did not also suffer Long Covid, I think I would have been an incredibly ann
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-{{< figure src="/gdlp25.jpg" title="dec 2025 at my desk with piri" >}}
+{{< figure src="/gdlp2026.jpg" title="january 2026" >}}
 
 can't believe I'm the most beautiful clever critic in the whole wide world 
