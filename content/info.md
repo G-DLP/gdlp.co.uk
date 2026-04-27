@@ -32,6 +32,6 @@ If I did not also suffer POTS, I think I would have been an incredibly annoying 
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-{{< figure src="/gdlp2026.jpg" title="january 2026" >}}
+{{< figure src="/000011.JPG" title="january 2026" >}}
 
 can't believe I'm the most beautiful clever critic in the whole wide world 
