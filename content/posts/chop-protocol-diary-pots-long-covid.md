@@ -1,7 +1,7 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2026-03-04
+date: 2026-05-04
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
@@ -10,7 +10,7 @@ tags: long covid
 
 🤞🏻
 
-_continuously updating this blog since 29th may 2025_
+_continuously updating this blog post since 29th may 2025_
 
 I usually post work updates on this website but I wanted to share my experience of doing the [CHOP Protocol](https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf) somewhere, because whilst there are a few videos online, I struggled to find complete blogs that didn’t taper off after a few months. Also, my doctors don’t know what it is and maybe yours don’t either. _I will return to this page each month to share an update for anyone interested._
 
@@ -157,7 +157,7 @@ And I know I will -- I know with any diagnosis it takes time, and the solution i
 hopefully next month's update is coming from a different place. i am genuinely looking forward to going on the elliptical again. but yeah, just a warning about pots and lpr so you can keep an eye out for symptoms yourself, especially if you are introducing cardio into the mix TT 
 
 
-## MONTH 5 / posted: jan 19th 
+## MONTH 5 / posted: jan 19th 2026
 
 well that was quite prompt of me. hello, i did it basically in a month, give or take the few days when I was seeing friends over Christmas. I thought it was gonna be a more disruptive time but that many people were sick with covid and the flu, most of my plans got cancelled. Felt glad I'd been wearing a mask in the gym even if it makes dickheads come up and ask me why I'm wearing a mask all as a ruse so they can warn me I'm breathing in my own bacteria and making myself sick. suck my dickkkkk 
 
@@ -211,3 +211,23 @@ Uhmmm, what else. The 7 day week was a bit too far and I should have broken it u
 
 I am going for dinner with my cousins tonight and I'll make that my celebration for the end of month 6 : ) I am proud at how straightforward it has been. See you next month (but maybe not in a month, so I can stay on certain weeks to live more life)
 
+## month 7 / posted may 4th 
+
+month 7 took me 2 months! and may takes us to a year of chop, which i think is important to state because i have not done the 8 months in 8 months, have iiiii. not even close la. and thats okay. it feels so okay actually, I don't feel like I have done a bad job of it, just that my body needed that much time and repetition to get through it. all good with me
+
+my boyfriend got a cold and it wiped him out for about a week, and then he wasn't right the following week either. towards the tail end, I got it, but I was only out for about 3 days? i repeated the CHOP week i was on at the time because I wanted to take it /easy/ but I was really struck by how quickly I got back to my baseline. long covid really got me in a mindset that every time there's a problem, I will have to live with that problem forever. so novel to watch my body recover from something. I was chatting to my cousins about it and asked if they thought this amount of exercise makes it easier for your body to recover from colds and, as gym people themselves, they believed so. I mention it here because I _hope_ so. I hope a fitter body is giving me a better immune system, and if so, that's a very important perk of doing all of this work. 
+
+so the work this month looks like this:
+
+{{< figure src="/m7.jpg" title="ive bought a marshmallow chocolate bar to celebrate finishing month 7 nice nice" >}}
+
+- Leg press 90 -> 100
+- Calf press 90 -> 100
+
+triple figures baby!
+
+i repeated parts after trips to newcastle and london; and then I repeated a chunk at the end too for a funny reason. I had some good news about a grant I put in months ago, but that grant means I am going to be going to Chile for work stuff later this year. Very good news, yeah, huge and life-changing. But I immediately got very stressed about how my health is going to play out in another country, and what if I get sick before I go, and what if, what if, what if -- and the stress just made me so run down. I was sleeping 11 hours, nosebleeds, headache, a cold sore, bad skin. It's funny with dysautonomia isn't it, like I fear the key to _me_ being and staying healthy is: I have to be incredibly fit, and I have to be incredibly chilled out, so that when good or bad things happen, it's all the same to me. I can't give my body these opportunities to crack like that haha. so, as of last week I've started therapy. I wanna be so chill. I don't want to do all this work in the gym only for anxiety to undo my health in the funny little ways the brain meddles with the body. 
+
+another note on month 7: i realised I'd done the interval training wrong. disregard whatever I said above about how I was going about it -- where it says 5x2 min intervals, I started doing: (2 minutes race pace, 2 minutes base pace] x 5 LIKE YOURE SUPPOSED TO hahah. so that was another reason for the slowness, re-doing intervals.
+
+I can't really believe there's only one month to go. I feel very proud. I can't believe I'm going to Chile. I would never have put in the grant without having done this programme of physio. I am so glad I got Midodrine to allow me to do that. So glad I got the grant to allow me to start therapy too! A lot to be happy about right now. See ya when month 8 is done!!!! ooooooo
