@@ -17,6 +17,8 @@ My days are spent writing, editing, curating, lecturing, chairing, consulting, t
 
 🎓 Studied BA Fine Art at Central Saint Martins
 
+🆕 The [Art Dates](https://artdates.co.uk) podcast
+
 ## [The White Pube](http://thewhitepube.com "The White Pube") est.2015
 - [Poor Artists](https://www.penguin.co.uk/books/455873/poor-artists-by-pube-gabrielle-de-la-puente-and-zarina-muhammad-aka-the-white/9780241633762), 2024, published by Particular, Penguin UK & Prestel US/Canada
 - weekly reviews, essays & podcasts [here](https://thewhitepube.co.uk/texts/)
