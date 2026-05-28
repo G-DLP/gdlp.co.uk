@@ -7,6 +7,7 @@ draft: false
 tags: writing
 ---
 
+2026-04-27
 
 on Saturday 23 May, I'll be giving [a talk on Poor Artists & my experience of friendship and communities in art](https://www.scca-ljubljana.si/en/gabrielle-de-la-puente-the-white-pube-the-friendship-agenda/) at Škuc Gallery, as part of the Friends with Benefits programme put on by the School for Curatorial Practices and Critical Writing World of Art. 
 

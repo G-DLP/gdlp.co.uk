@@ -7,6 +7,8 @@ draft: false
 tags: art
 ---
 
+2026-05-21
+
 I've started a new podcast called [Art Dates](https://artdates.co.uk) 
 
 I'm going to be interviewing people as we walk around exhibitions. I'll have my camera with me, so episodes will take the form of audio plus a bunch of film photos, and the transcription if you want it. I don't wanna mess with video for now. I love film so much.
