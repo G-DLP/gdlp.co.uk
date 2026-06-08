@@ -1,7 +1,7 @@
 ---
 title: The CHOP Protocol Diary 🩻
 description: physical rehabilitation for POTS maybe 
-date: 2026-05-04
+date: 2026-06-08
 tldr: i don't know if this will work but here's hoping
 draft: 
 time: 11:49:00
@@ -231,3 +231,7 @@ i repeated parts after trips to newcastle and london; and then I repeated a chun
 another note on month 7: i realised I'd done the interval training wrong. disregard whatever I said above about how I was going about it -- where it says 5x2 min intervals, I started doing: (2 minutes race pace, 2 minutes base pace] x 5 LIKE YOURE SUPPOSED TO hahah. so that was another reason for the slowness, re-doing intervals.
 
 I can't really believe there's only one month to go. I feel very proud. I can't believe I'm going to Chile. I would never have put in the grant without having done this programme of physio. I am so glad I got Midodrine to allow me to do that. So glad I got the grant to allow me to start therapy too! A lot to be happy about right now. See ya when month 8 is done!!!! ooooooo
+
+## update / posted june 8th
+
+I jinxed it big time because I got a way into month 8, then went on a work trip for a week, came back with the lurgy, had a horrible cold for a week, and i am left feeling terrible, body so out of whack, fatigue disrupting everything, those dysautonomic body tingles are rife, and I've gone from feeling unstoppable 2 weeks ago to cancelling video calls. it's gonna be a big snakes and ladders to get back to where I was at, and the frustration of that is hard. it's not even the lack of progress in chop itself that's getting to me, just the sense that there's a freedom that's been taken away from me. I think I might go back to the gym today after 18 days away even if I just stretch and then go home. Gutted la 
