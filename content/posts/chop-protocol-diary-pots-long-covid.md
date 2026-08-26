@@ -235,3 +235,15 @@ I can't really believe there's only one month to go. I feel very proud. I can't 
 ## update / posted june 8th
 
 I jinxed it big time because I got a way into month 8, then went on a work trip for a week, came back with the lurgy, had a horrible cold for a week, and i am left feeling terrible, body so out of whack, fatigue disrupting everything, those dysautonomic body tingles are rife, and I've gone from feeling unstoppable 2 weeks ago to cancelling video calls. it's gonna be a big snakes and ladders to get back to where I was at, and the frustration of that is hard. it's not even the lack of progress in chop itself that's getting to me, just the sense that there's a freedom that's been taken away from me. I think I might go back to the gym today after 18 days away even if I just stretch and then go home. Gutted la 
+
+## update / posted august 26th 
+
+I went to the gym in bits and pieces this summer, and when I got into the swing of things again between heatwaves and sickness, I restarted CHOP from month 5. there was a sign in the gym saying that summer is not for personal bests, it's just for maintenance and I really needed to hear that. POTS vs 5 unprecedented british heatwaves has been a terrible time, all nausea and falling asleep and fleeing to the park to sit under a tree so I don't bake alive in a house that wasn't built for this climate. so, i did maintenance, not personal bests and after completing month 5 again im feeling quite strong! because even though I'm doing month 5 level cardio stuff, all of the strength training continued where it left off. 
+
+I am now in a sliiightly frustrating but not that frustrating position where: I am about to head to Chile for a month for a work trip, which is going to maybe explode that progress / and at the same time, i can't be too sad about it because this is exactly what all of the gym stuff has been for -- to go places and do things that I couldn't manage before I started CHOP. I am hoping that I can keep up cardio while I'm out of a day, and I'm planning on going to the gym 2-3 week to do some strength training. I am going to be not-in-places-with-gyms for a good chunk of the month however, so a friend suggested taking resistance bands and they're packed now ready to go. 
+
+before i head off for the month, I thought I would post this picture of my tracking in case it is interesting to any prospective CHOP people. G means Gym, R means rest day, T/trip for travel days, and if it's just a number that's because it was too hot to go the gym. Under each G I write what I did in the gym that day. so you can see that in winter and spring I had a routine, and in summer it went kaboom. I will not let myself feel bad about this. It is POTS after all. And when I get back in england and the weather is cooler, I can get back into the 5 days on / 2 days off cycle and continue getting fucking buff la 
+
+{{< figure src="/cal.JPG" title="having the full year visible is really useful btw, helps me make sense of things, helps me feel proud, helps me understand while I feel the way I do" >}}
+
+adiós amigazos 
