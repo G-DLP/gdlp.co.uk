@@ -32,6 +32,6 @@ If I did not also suffer POTS, I think I would have been an incredibly annoying 
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-{{< figure src="/000011.JPG" title="january 2026" >}}
+{{< figure src="/aug26.jpg" title="august 2026 w pentax 17" >}}
 
-can't believe I'm the most beautiful clever critic in the whole wide world 
+can't believe I'm the most beautiful clever critic in the whole wide world
