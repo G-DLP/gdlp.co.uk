@@ -247,3 +247,7 @@ before i head off for the month, I thought I would post this picture of my track
 {{< figure src="/cal.JPG" title="having the full year visible is really useful btw, helps me make sense of things, helps me feel proud, helps me understand while I feel the way I do" >}}
 
 adiós amigazos 
+
+## update nov 16 2026
+
+I did not go to the gym all of september while I was away in chile, Instead I just did a million steps every day and then died from the adrenaline crash when I finally returned to England. I am going to the gym again now, just alternating 30 minutes elliptical and strength training days until I feel that my energy is level enough on a day to day basis that I can start chopping again. It's been a bit of a nightmare to have such a big interruption but dya know what, I still feel strong and the routine will come again. It's all good. I'm not thinking about how I started this April last year. I'm just looking to the future. Thinking about consistency and doing as much as I can when I can. I'm good! I'll get even better. No sweat
